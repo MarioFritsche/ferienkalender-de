@@ -1,5 +1,6 @@
 {
-  "lastupdate": "2021-11-28",
+  "lastupdate": "2023-08-22",
+  "laststand": "2023-05-17",
   "title": "Ferienkalender Deutschland",
   "quelle": "https://www.kmk.org/service/ferien.html",
   "base_data": [
@@ -128,6 +129,14 @@
         {
           "id": 3,
           "year": "2023/2024"
+        },
+        {
+          "id": 4,
+          "year": "2024/2025"
+        },
+        {
+          "id": 5,
+          "year": "2025/2026"
         }
       ]
     }
@@ -2476,6 +2485,1622 @@
       "location_id": 5,
       "schoolyear_id": 3,
       "lastupdate": "2020-09-22"
+    },
+    {
+      "date_start": "28.10.2024",
+      "date_end": "30.10.2024",
+      "vacation_id": 1,
+      "location_id": 1,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.10.2024",
+      "date_end": "25.10.2024",
+      "vacation_id": 1,
+      "location_id": 7,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "21.10.2024",
+      "date_end": "26.10.2024",
+      "vacation_id": 1,
+      "location_id": 8,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.10.2024",
+      "date_end": "19.10.2024",
+      "vacation_id": 1,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.10.2024",
+      "date_end": "26.10.2024",
+      "vacation_id": 1,
+      "location_id": 10,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.10.2024",
+      "date_end": "25.10.2024",
+      "vacation_id": 1,
+      "location_id": 11,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.10.2024",
+      "date_end": "25.10.2024",
+      "vacation_id": 1,
+      "location_id": 12,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.10.2024",
+      "date_end": "19.10.2024",
+      "vacation_id": 1,
+      "location_id": 13,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.09.2024",
+      "date_end": "12.10.2024",
+      "vacation_id": 1,
+      "location_id": 14,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "21.10.2024",
+      "date_end": "01.11.2024",
+      "vacation_id": 1,
+      "location_id": 15,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.09.2024",
+      "date_end": "12.10.2024",
+      "vacation_id": 1,
+      "location_id": 16,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "31.10.2024",
+      "date_end": "null",
+      "vacation_id": 7,
+      "location_id": 1,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.10.2024",
+      "date_end": "null",
+      "vacation_id": 7,
+      "location_id": 3,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "01.11.2024",
+      "date_end": "null",
+      "vacation_id": 1,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.10.2024",
+      "date_end": "null",
+      "vacation_id": 1,
+      "location_id": 6,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.10.2024",
+      "date_end": "null",
+      "vacation_id": 1,
+      "location_id": 8,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "01.11.2024",
+      "date_end": "null",
+      "vacation_id": 1,
+      "location_id": 8,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "01.11.2024",
+      "date_end": "null",
+      "vacation_id": 1,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "01.11.2024",
+      "date_end": "01.11.2024",
+      "vacation_id": 1,
+      "location_id": 14,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "04.01.2025",
+      "vacation_id": 2,
+      "location_id": 1,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "03.01.2025",
+      "vacation_id": 2,
+      "location_id": 2,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "31.12.2025",
+      "vacation_id": 2,
+      "location_id": 3,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "31.12.2025",
+      "vacation_id": 2,
+      "location_id": 4,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "04.01.2025",
+      "vacation_id": 2,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "20.12.2024",
+      "date_end": "03.01.2025",
+      "vacation_id": 2,
+      "location_id": 6,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "10.01.2025",
+      "vacation_id": 2,
+      "location_id": 7,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "06.01.2025",
+      "vacation_id": 2,
+      "location_id": 8,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "04.01.2025",
+      "vacation_id": 2,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "06.01.2025",
+      "vacation_id": 2,
+      "location_id": 10,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "08.01.2025",
+      "vacation_id": 2,
+      "location_id": 11,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "03.01.2025",
+      "vacation_id": 2,
+      "location_id": 12,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "03.01.2025",
+      "vacation_id": 2,
+      "location_id": 13,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "04.01.2025",
+      "vacation_id": 2,
+      "location_id": 14,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "19.12.2024",
+      "date_end": "07.01.2025",
+      "vacation_id": 2,
+      "location_id": 15,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.12.2024",
+      "date_end": "03.01.2025",
+      "vacation_id": 2,
+      "location_id": 16,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.02.2025",
+      "date_end": "08.02.2025",
+      "vacation_id": 3,
+      "location_id": 3,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.02.2025",
+      "date_end": "08.02.2025",
+      "vacation_id": 3,
+      "location_id": 4,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.02.2025",
+      "date_end": "04.02.2025",
+      "vacation_id": 3,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "31.01.2025",
+      "date_end": "null",
+      "vacation_id": 3,
+      "location_id": 6,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.02.2025",
+      "date_end": "14.02.2025",
+      "vacation_id": 3,
+      "location_id": 8,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.02.2025",
+      "date_end": "04.02.2025",
+      "vacation_id": 3,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "24.02.2025",
+      "date_end": "04.03.2025",
+      "vacation_id": 3,
+      "location_id": 12,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "17.02.2025",
+      "date_end": "01.03.2025",
+      "vacation_id": 3,
+      "location_id": 13,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "27.01.2025",
+      "date_end": "31.01.2025",
+      "vacation_id": 3,
+      "location_id": 14,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.02.2025",
+      "date_end": "08.02.2025",
+      "vacation_id": 3,
+      "location_id": 16,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.04.2025",
+      "date_end": "26.04.2025",
+      "vacation_id": 4,
+      "location_id": 1,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.03.2025",
+      "date_end": "07.03.2025",
+      "vacation_id": 4,
+      "location_id": 2,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.04.2025",
+      "date_end": "25.04.2025",
+      "vacation_id": 4,
+      "location_id": 3,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.04.2025",
+      "date_end": "25.04.2025",
+      "vacation_id": 4,
+      "location_id": 4,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.04 2025",
+      "date_end": "19.04.2025",
+      "vacation_id": 4,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "10.03.2025",
+      "date_end": "21.03.2025",
+      "vacation_id": 4,
+      "location_id": 6,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.04.2025",
+      "date_end": "21.04.2025",
+      "vacation_id": 4,
+      "location_id": 7,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.04.2025",
+      "date_end": "23.04.2025",
+      "vacation_id": 4,
+      "location_id": 8,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.04.2025",
+      "date_end": "19.04.2025",
+      "vacation_id": 4,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.04.2025",
+      "date_end": "26.04.2025",
+      "vacation_id": 4,
+      "location_id": 10,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.04.2025",
+      "date_end": "25.04.2025",
+      "vacation_id": 4,
+      "location_id": 11,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.04.2025",
+      "date_end": "25.04.2025",
+      "vacation_id": 4,
+      "location_id": 12,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "18.04.2025",
+      "date_end": "25.04.2025",
+      "vacation_id": 4,
+      "location_id": 13,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.04.2025",
+      "date_end": "19.04.2025",
+      "vacation_id": 4,
+      "location_id": 14,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "11.04.2025",
+      "date_end": "25.04.2025",
+      "vacation_id": 4,
+      "location_id": 15,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.04.2025",
+      "date_end": "19.04.2025",
+      "vacation_id": 4,
+      "location_id": 16,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.04.2025",
+      "date_end": "25.04.2025",
+      "vacation_id": 4,
+      "location_id": 2,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.05.2025",
+      "date_end": "null",
+      "vacation_id": 7,
+      "location_id": 3,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.04.2025",
+      "date_end": "null",
+      "vacation_id": 4,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.05.2025",
+      "date_end": "null",
+      "vacation_id": 4,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.05.2025",
+      "date_end": "null",
+      "vacation_id": 4,
+      "location_id": 6,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.04.2025",
+      "date_end": "null",
+      "vacation_id": 4,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.05.2025",
+      "date_end": "null",
+      "vacation_id": 4,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "10.06.2025",
+      "date_end": "20.06.2025",
+      "vacation_id": 5,
+      "location_id": 1,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "10.06.2025",
+      "date_end": "20.06.2025",
+      "vacation_id": 5,
+      "location_id": 2,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "10.06.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 3,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "10.06.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 4,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "10.06.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.05.2025",
+      "date_end": "30.05.2025",
+      "vacation_id": 5,
+      "location_id": 6,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "06.06.2025",
+      "date_end": "10.06.2025",
+      "vacation_id": 5,
+      "location_id": 8,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.05.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "10.06.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 10,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.05.2025",
+      "date_end": "null",
+      "vacation_id": 7,
+      "location_id": 13,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.05.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 14,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.05.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 15,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.05.2025",
+      "date_end": "null",
+      "vacation_id": 7,
+      "location_id": 16,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.05.2025",
+      "date_end": "null",
+      "vacation_id": 7,
+      "location_id": 3,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.05.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 8,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.05.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "10.06.2025",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "31.07.2025",
+      "date_end": "13.09.2025",
+      "vacation_id": 6,
+      "location_id": 1,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.08.2025",
+      "date_end": "15.09.2025",
+      "vacation_id": 6,
+      "location_id": 2,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "24.07.2025",
+      "date_end": "06.09.2025",
+      "vacation_id": 6,
+      "location_id": 3,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "24.07.2025",
+      "date_end": "06.09.2025",
+      "vacation_id": 6,
+      "location_id": 4,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.07.2025",
+      "date_end": "13.08.2025",
+      "vacation_id": 6,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "24.07.2025",
+      "date_end": "03.09.2025",
+      "vacation_id": 6,
+      "location_id": 6,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.07.2025",
+      "date_end": "15.08.2025",
+      "vacation_id": 6,
+      "location_id": 7,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "28.07.2025",
+      "date_end": "06.09.2025",
+      "vacation_id": 6,
+      "location_id": 8,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.07.2025",
+      "date_end": "13.08.2025",
+      "vacation_id": 6,
+      "location_id": 9,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "14.07.2025",
+      "date_end": "26.08.2025",
+      "vacation_id": 6,
+      "location_id": 10,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.07.2025",
+      "date_end": "15.08.2025",
+      "vacation_id": 6,
+      "location_id": 11,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.07.2025",
+      "date_end": "14.08.2025",
+      "vacation_id": 6,
+      "location_id": 12,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "28.06.2025",
+      "date_end": "08.08.2025",
+      "vacation_id": 6,
+      "location_id": 13,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "28.06.2025",
+      "date_end": "08.08.2025",
+      "vacation_id": 6,
+      "location_id": 14,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "28.07.2025",
+      "date_end": "06.09.2025",
+      "vacation_id": 6,
+      "location_id": 15,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "28.06.2025",
+      "date_end": "08.08.2025",
+      "vacation_id": 6,
+      "location_id": 16,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "01.08.2025",
+      "date_end": "null",
+      "vacation_id": 6,
+      "location_id": 2,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "28.10.2024",
+      "date_end": "31.10.2024",
+      "vacation_id": 7,
+      "location_id": 2,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "21.10.2024",
+      "date_end": "02.11.2024",
+      "vacation_id": 1,
+      "location_id": 3,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "21.10.2024",
+      "date_end": "02.11.2024",
+      "vacation_id": 1,
+      "location_id": 4,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.10.2024",
+      "date_end": "19.10.2024",
+      "vacation_id": 1,
+      "location_id": 5,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "21.10.2024",
+      "date_end": "01.11.2024",
+      "vacation_id": 1,
+      "location_id": 6,
+      "schoolyear_id": 4,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "27.10.2025",
+      "date_end": "30.10.2025",
+      "vacation_id": 1,
+      "location_id": 1,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "06.10.2025",
+      "date_end": "18.10.2025",
+      "vacation_id": 1,
+      "location_id": 7,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "20.10.2025",
+      "date_end": "25.10.2025",
+      "vacation_id": 1,
+      "location_id": 8,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "13.10.2025",
+      "date_end": "25.10.2025",
+      "vacation_id": 1,
+      "location_id": 9,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "13.10.2025",
+      "date_end": "25.10.2025",
+      "vacation_id": 1,
+      "location_id": 10,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "13.10.2025",
+      "date_end": "24.10.2025",
+      "vacation_id": 1,
+      "location_id": 11,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "13.10.2025",
+      "date_end": "24.10.2025",
+      "vacation_id": 1,
+      "location_id": 12,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "06.10.2025",
+      "date_end": "18.10.2025",
+      "vacation_id": 1,
+      "location_id": 13,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "13.10.2025",
+      "date_end": "25.10.2025",
+      "vacation_id": 1,
+      "location_id": 14,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "20.10.2025",
+      "date_end": "30.10.2025",
+      "vacation_id": 1,
+      "location_id": 15,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "06.10.2025",
+      "date_end": "18.10.2025",
+      "vacation_id": 1,
+      "location_id": 16,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "31.10.2025",
+      "date_end": "null",
+      "vacation_id": 1,
+      "location_id": 1,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.10.2025",
+      "date_end": "null",
+      "vacation_id": 1,
+      "location_id": 8,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.11.2025",
+      "date_end": "null",
+      "vacation_id": 1,
+      "location_id": 8,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "05.01.2026",
+      "vacation_id": 2,
+      "location_id": 1,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "05.01.2026",
+      "vacation_id": 2,
+      "location_id": 2,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "02.01.2026",
+      "vacation_id": 2,
+      "location_id": 3,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "02.01.2026",
+      "vacation_id": 2,
+      "location_id": 4,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "05.01.2026",
+      "vacation_id": 2,
+      "location_id": 5,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "17.12.2025",
+      "date_end": "02.01.2026",
+      "vacation_id": 2,
+      "location_id": 6,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "10.01.2026",
+      "vacation_id": 2,
+      "location_id": 7,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "05.01.2026",
+      "vacation_id": 2,
+      "location_id": 8,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "05.01.2026",
+      "vacation_id": 2,
+      "location_id": 9,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "06.01.2026",
+      "vacation_id": 2,
+      "location_id": 10,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "07.01.2026",
+      "vacation_id": 2,
+      "location_id": 11,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "02.01.2026",
+      "vacation_id": 2,
+      "location_id": 12,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "02.01.2026",
+      "vacation_id": 2,
+      "location_id": 13,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "05.01.2026",
+      "vacation_id": 2,
+      "location_id": 14,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "19.12.2025",
+      "date_end": "06.01.2026",
+      "vacation_id": 2,
+      "location_id": 15,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.12.2025",
+      "date_end": "03.01.2026",
+      "vacation_id": 2,
+      "location_id": 16,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.02.2026",
+      "date_end": "07.02.2026",
+      "vacation_id": 3,
+      "location_id": 3,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.02.2026",
+      "date_end": "07.02.2026",
+      "vacation_id": 3,
+      "location_id": 4,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.02.2026",
+      "date_end": "03.02.2026",
+      "vacation_id": 3,
+      "location_id": 5,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.01.2026",
+      "date_end": "null",
+      "vacation_id": 3,
+      "location_id": 6,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "09.02.2026",
+      "date_end": "20.02.2026",
+      "vacation_id": 3,
+      "location_id": 8,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.02.2026",
+      "date_end": "03.02.2026",
+      "vacation_id": 3,
+      "location_id": 9,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "16.02.2026",
+      "date_end": "20.02.2026",
+      "vacation_id": 3,
+      "location_id": 12,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "09.02.2026",
+      "date_end": "21.02.2026",
+      "vacation_id": 3,
+      "location_id": 13,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "31.01.2026",
+      "date_end": "06.02.2026",
+      "vacation_id": 3,
+      "location_id": 14,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "16.02.2026",
+      "date_end": "21.02.2026",
+      "vacation_id": 3,
+      "location_id": 16,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.03.2026",
+      "date_end": "11.04.2026",
+      "vacation_id": 4,
+      "location_id": 1,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "16.02.2026",
+      "date_end": "20.02.2026",
+      "vacation_id": 4,
+      "location_id": 2,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.03.2026",
+      "date_end": "10.04.2026",
+      "vacation_id": 4,
+      "location_id": 3,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.03.2026",
+      "date_end": "10.04.2026",
+      "vacation_id": 4,
+      "location_id": 4,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.03.2026",
+      "date_end": "07.04.2026",
+      "vacation_id": 4,
+      "location_id": 5,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.03.2026",
+      "date_end": "13.03.2026",
+      "vacation_id": 4,
+      "location_id": 6,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.03.2026",
+      "date_end": "10.04.2026",
+      "vacation_id": 4,
+      "location_id": 7,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.03.2026",
+      "date_end": "08.04.2026",
+      "vacation_id": 4,
+      "location_id": 8,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "23.03.2026",
+      "date_end": "07.04.2026",
+      "vacation_id": 4,
+      "location_id": 9,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.03.2026",
+      "date_end": "11.04.2026",
+      "vacation_id": 4,
+      "location_id": 10,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.03.2026",
+      "date_end": "10.04.2026",
+      "vacation_id": 4,
+      "location_id": 11,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.04 2026",
+      "date_end": "17.04.2026",
+      "vacation_id": 4,
+      "location_id": 12,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.04.2026",
+      "date_end": "10.04.2026",
+      "vacation_id": 4,
+      "location_id": 13,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.03.2026",
+      "date_end": "04.04.2026",
+      "vacation_id": 4,
+      "location_id": 14,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.03.2026",
+      "date_end": "10.04.2026",
+      "vacation_id": 4,
+      "location_id": 15,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "07.04.2026",
+      "date_end": "17.04.2026",
+      "vacation_id": 4,
+      "location_id": 16,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.03.2026",
+      "date_end": "10.04.2026",
+      "vacation_id": 4,
+      "location_id": 2,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.05.2026",
+      "date_end": "05.06.2026",
+      "vacation_id": 5,
+      "location_id": 1,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.05.2026",
+      "date_end": "05.06.2026",
+      "vacation_id": 5,
+      "location_id": 2,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.05.2026",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 3,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.05.2026",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 4,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "15.05.2026",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 5,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "11.05.2026",
+      "date_end": "15.05.2026",
+      "vacation_id": 5,
+      "location_id": 6,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "22.05.2026",
+      "date_end": "26.05.2026",
+      "vacation_id": 5,
+      "location_id": 8,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "15.05.2026",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 9,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.05.2026",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 10,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "15.05.2026",
+      "date_end": "null",
+      "vacation_id": 7,
+      "location_id": 13,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.05.2026",
+      "date_end": "29.05.2026",
+      "vacation_id": 5,
+      "location_id": 14,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "15.05.2026",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 15,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "15.05.2026",
+      "date_end": "null",
+      "vacation_id": 7,
+      "location_id": 16,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "15.05.2026",
+      "date_end": "null",
+      "vacation_id": 7,
+      "location_id": 3,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.05.2026",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 5,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "15.05.2026",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 8,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "26.05.2026",
+      "date_end": "null",
+      "vacation_id": 5,
+      "location_id": 9,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "30.07.2026",
+      "date_end": "12.09.2026",
+      "vacation_id": 6,
+      "location_id": 1,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.08.2026",
+      "date_end": "14.09.2026",
+      "vacation_id": 6,
+      "location_id": 2,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "09.07.2026",
+      "date_end": "22.08.2026",
+      "vacation_id": 6,
+      "location_id": 3,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "09.07.2026",
+      "date_end": "22.08.2026",
+      "vacation_id": 6,
+      "location_id": 4,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.07.2026",
+      "date_end": "12.08.2026",
+      "vacation_id": 6,
+      "location_id": 5,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "09.07.2026",
+      "date_end": "19.08.2026",
+      "vacation_id": 6,
+      "location_id": 6,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "29.06.2026",
+      "date_end": "07.08.2026",
+      "vacation_id": 6,
+      "location_id": 7,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "13.07.2026",
+      "date_end": "22.08.2026",
+      "vacation_id": 6,
+      "location_id": 8,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "02.07.2026",
+      "date_end": "12.08.2026",
+      "vacation_id": 6,
+      "location_id": 9,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "20.07.2026",
+      "date_end": "01.09.2026",
+      "vacation_id": 6,
+      "location_id": 10,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "29.06.2026",
+      "date_end": "07.08.2026",
+      "vacation_id": 6,
+      "location_id": 11,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "29.06.2026",
+      "date_end": "07.08.2026",
+      "vacation_id": 6,
+      "location_id": 12,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.07.2026",
+      "date_end": "14.08.2026",
+      "vacation_id": 6,
+      "location_id": 13,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.07.2026",
+      "date_end": "14.08.2026",
+      "vacation_id": 6,
+      "location_id": 14,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.07.2026",
+      "date_end": "15.08.2026",
+      "vacation_id": 6,
+      "location_id": 15,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "04.07.2026",
+      "date_end": "14.08.2026",
+      "vacation_id": 6,
+      "location_id": 16,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "03.11.2025",
+      "date_end": "07.11.2025",
+      "vacation_id": 1,
+      "location_id": 2,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "20.10.2025",
+      "date_end": "01.11.2025",
+      "vacation_id": 1,
+      "location_id": 3,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "20.10.2025",
+      "date_end": "01.11.2025",
+      "vacation_id": 1,
+      "location_id": 4,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "13.10.2025",
+      "date_end": "25.10.2025",
+      "vacation_id": 1,
+      "location_id": 5,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
+    },
+    {
+      "date_start": "20.10.2025",
+      "date_end": "31.10.2025",
+      "vacation_id": 1,
+      "location_id": 6,
+      "schoolyear_id": 5,
+      "lastupdate": "22.08.2023"
     }
   ]
 }
